@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_achivements_achivements",
+  "info": {
+    "displayName": "achivements",
+    "icon": "check",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "achivements": {
+      "type": "richtext"
+    }
+  }
+}
